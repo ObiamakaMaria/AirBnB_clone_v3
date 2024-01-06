@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Obiamaka Aghadiuno - [Github](https://github.com/ObiamakaMaria) / [Twitter/ X](https://x.com/obiamaka_a?s=11&t=fOnFzcUQ0XGG1m68oP76GQ)  
- Emmanuel Adigun  - [Github](https://github.com/Memmalino) / [Twitter/ X]) ()
+ Emmanuel Adigun  - [Github](https://github.com/Memmalino) / [Twitter/ X]) (https://x.com/distinctmgx?s=21)
 
 Second part of Airbnb: Joann Vuong
 ## License
