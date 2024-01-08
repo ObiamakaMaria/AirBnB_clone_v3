@@ -22,4 +22,4 @@ def display_status():
            'reviews': model.count("Review"),
            'states': model.count("State"),
            'users': model.count("User")}
-    return jsonify(res)
+   return jsonify(res)
