@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""This script declares the blueprint the init """
+"""This script declares the blueprint the init """
 
 from flask import Blueprint
 
