@@ -17,9 +17,9 @@ def display_status():
     """This returns the status of each model"""
     model = models.storage
     res = {'amenities': model.count("Amenity"),
-           'cities': model.count("City"),
-           'places': model.count("Place"),
-           'reviews': model.count("Review"),
-           'states': model.count("State"),
-           'users': model.count("User")}
-   return jsonify(res)
+            'cities': model.count("City"),
+            'places': model.count("Place"),
+            'reviews': model.count("Review"),
+            'states': model.count("State"),
+            'users': model.count("User")}
+    return jsonify(res)
